@@ -29,4 +29,4 @@ METHODOLOGICAL INFORMATION
 
 Methods for processing the data: I started to work on this website first on 2025-08-08.First I designed the interface of the website by using wireframe.cc.Then I designed the logo.Then I get the description and other descriptions of company by reading articles about ocean pollution and targets of NGO companies by articles.Then I collected all the images,logos and svg files that I needed.I made the index.html file and I also visited NGO websites and got and idea.Then I made all the login forms,catalogs,and payment form,about section.I used the bootstrap and sweetalert2 cdn for css and beautiful alerts.Then I made a gihub repository and deployed my website on github.This whole process took about 8-10 days.
 
-Github deployment link of my website : https://navithaaken.github.io/Movie-Reservation/
+Github deployment link of my website : https://navithaaken.github.io/Ocean-Defenders/
